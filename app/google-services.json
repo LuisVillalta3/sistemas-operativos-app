@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242324046678",
+    "project_id": "udb-dsm",
+    "storage_bucket": "udb-dsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242324046678:android:bf0c72db5da19199f74cf7",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.vr181981.appsistemasoperativos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRf7zNOdvgOUScXe8xXYMC34n4t4tPfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242324046678:android:445281284b5ae88ff74cf7",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.vr181981.veterinariasantabarbara_clientes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRf7zNOdvgOUScXe8xXYMC34n4t4tPfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
